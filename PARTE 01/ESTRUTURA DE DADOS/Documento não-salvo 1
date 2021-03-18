@@ -1,0 +1,23 @@
+>>> Cadastro de produto
+codigo, nome, quantidade
+
+
+>>> Cadastro de saídas de produtos
+Codigo, quantidade
+
+
+>>> Relatório entrada e saida de estoque
+codigo
+
+
+
+>>> Cadastro de entradas e saídas de cartao corporativo
+Codigo do cartao, data, entrada, saida
+
+
+>>> Relatório de entrada e saida de cartao corporativo
+Codigo
+
+
+
+
